@@ -5,6 +5,7 @@ Production Systems, and AI Agents — built for UAE/Qatar job market.
 ## Progress
 - [x] Lecture 01 — Linux & CLI
 - [x] Lecture 02 — Git Basics
+- [x] Lecture 03 — Git Branching
 ## Structure
 Each lecture folder contains:
 - The code covered in the lecture
