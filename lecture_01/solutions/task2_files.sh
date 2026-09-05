@@ -1,0 +1,1 @@
+touch ~/ml_project/data/raw/users.csv ~/ml_project/data/raw/transactions.csv ~/ml_project/data/processed/users_clean.csv ~/ml_project/scripts/pipeline.py ~/ml_project/scripts/validate.py ~/ml_project/logs/pipeline.log ~/ml_project/output/report.txt
