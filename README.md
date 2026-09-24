@@ -14,3 +14,5 @@ Each lecture folder contains:
 - My solution to the challenge
 ## Tools Used
 Python, Git, Linux, PyArrow, Pandas, SQL, Docker, FastAPI
+
+Lecture 04 workflow practice
